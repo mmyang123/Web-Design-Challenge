@@ -1,7 +1,7 @@
 # Unit 11 Homework: Web Visualization Dashboard 
 
 ## Access the site here
-<a href="https://mmyang123.github.io/Web-Design-Challenge/">Web Design Challenge Site</a>
+<a href="https://mmyang123.github.io/Web-Design-Challenge/" target="_blank">Web Design Challenge Site</a>
 
 ## Background
 
